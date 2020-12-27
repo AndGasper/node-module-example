@@ -1,0 +1,23 @@
+{
+  "name": "module-import-example",
+  "version": "1.0.0",
+  "description": "I always forget how this is supposed to be.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demonstrateNodeInvocation": "node ./index.js",
+    "demonstrateRequire": "node ./exampleRequire.js"
+  },
+  "keywords": [
+    "node",
+    "module",
+    "resolution",
+    "module",
+    "import",
+    "context",
+    "resource-resolution",
+    "resource resolution"
+  ],
+  "author": "Andres Gasper",
+  "license": "by-nc-nd-4.0"
+}
